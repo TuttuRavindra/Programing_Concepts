@@ -1,26 +1,13 @@
-# **AWS Full stack PROJECT**
+# **JIRA**
 
 ___
-## Prerequisite
-1. NODE.JS
-2. VS CODE
+## Jira Introduction
+1. Top Project Management Tool 
+2. 
 3. GIT
 4. POSTMAN
 5. REACT DEV TOOLS
 6. REDUX DEV TOOLS
-
-___
-## VS CODE ADDONS
-1. Any Bracket colorizer
-2. ES7 React/Redux/GraphQL/React-native snippets
-3. Any Code Formatter
-
-___
-## CDK Setup
-1. Create IAM user which can interact with AWS CLI
-2. npm install -g aws-cdk
-3. cdk --version
-4. cdk init --language typescript
 
 ___
 ## Backend Setup
