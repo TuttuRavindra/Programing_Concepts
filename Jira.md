@@ -35,6 +35,14 @@ ___
 2. KANBAN board has a flow of work which is defined by the team which can be done without any stoppage, where the item can go from start to completion.From Left to right just like an Scrum board.
 3. In KANBAN max number of work units can be restricted at a time.
 
+___
+## Jira UI
+1. Jira has a horizontal Navigation panel.
+2. Application switcher.
+3. Jira logo takes you to the home page.
+4. Your work page takes you to the most recent work that was done by you.
+5. Starred projects shows the projects which you have marked as Fav.
+6. YOu can have multiple Boards under a project.
 
 ```JSON
    terminal.integrated.shell.windows": "A:\\Program FIles\\64 bit\\Git\\bin\\bash.exe"
