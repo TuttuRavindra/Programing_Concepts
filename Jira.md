@@ -43,7 +43,15 @@ ___
 4. Your work page takes you to the most recent work that was done by you.
 5. Starred projects shows the projects which you have marked as Fav.
 6. YOu can have multiple Boards under a project.
+7. Issue Search.
+8. When a project is created a board is automatically created depending upon te template which was choose at the time of creating the Project.
+9. There are three types of Boards that can be created , Scrum , Kanban and Next Gen
+10. Filters can only be edited by the Owners only
+11. Board Order by Rank is will help you in moving the Issues in the backlog, if removed you wont be able to do that.
 
-```JSON
-   terminal.integrated.shell.windows": "A:\\Program FIles\\64 bit\\Git\\bin\\bash.exe"
-```
+___
+## Jira Admin
+1. Three Jira Roles , Basic, trusted and Admin.
+2. Global Permissions and Project permission
+3. Project role Theory
+4. 
